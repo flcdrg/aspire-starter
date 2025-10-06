@@ -1,6 +1,13 @@
-# aspire-starter
+# .NET Aspire Starter example
 
-Implementation of the .NET Aspire starter template
+Implementation of the .NET Aspire starter template with the following options:
+
+- .NET 10
+- Using .slnx file
+- Redis cache
+- xUnit.NET tests (using [Microsoft.Testing.Platform](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test?WT.mc_id=DOP-MVP-5001655#microsofttestingplatform-mtp-mode-of-dotnet-test))
+- GitHub Actions [workflow with test results](.github/workflows/dotnet.yml)
+- Dependabot
 
 ## Created with
 
